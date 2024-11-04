@@ -1,0 +1,33 @@
+out_ << tr("InstrumentId") << ",";
+out_ << tr("ExchangeId") << ",";
+out_ << tr("Datetime") << ",";
+out_ << tr("OpenPrice") << ",";
+out_ << tr("HighestPrice") << ",";
+out_ << tr("LowestPrice") << ",";
+out_ << tr("UpperLimitPrice") << ",";
+out_ << tr("LowerLimitPrice") << ",";
+out_ << tr("Volume") << ",";
+out_ << tr("OpenInterest") << ",";
+out_ << tr("BidPrice5") << ",";
+out_ << tr("BidVolume5") << ",";
+out_ << tr("BidPrice4") << ",";
+out_ << tr("BidVolume4") << ",";
+out_ << tr("BidPrice3") << ",";
+out_ << tr("BidVolume3") << ",";
+out_ << tr("BidPrice2") << ",";
+out_ << tr("BidVolume2") << ",";
+out_ << tr("BidPrice1") << ",";
+out_ << tr("BidVolume1") << ",";
+out_ << tr("AskPrice1") << ",";
+out_ << tr("AskVolume1") << ",";
+out_ << tr("AskPrice2") << ",";
+out_ << tr("AskVolume2") << ",";
+out_ << tr("AskPrice3") << ",";
+out_ << tr("AskVolume3") << ",";
+out_ << tr("AskPrice4") << ",";
+out_ << tr("AskVolume4") << ",";
+out_ << tr("AskPrice5") << ",";
+out_ << tr("AskVolume5") << ",";
+out_ << tr("LastPrice");
+
+InstrumentId,ExchangeId,Datetime,OpenPrice,HighestPrice,LowestPrice,UpperLimitPrice,LowerLimitPrice,Volume,OpenInterest,BidPrice5,BidVolume5,BidPrice4,BidVolume4,BidPrice3,BidVolume3,BidPrice2,BidVolume2,BidPrice1,BidVolume1,AskPrice1,AskVolume1,AskPrice2,AskVolume2,AskPrice3,AskVolume3,AskPrice4,AskVolume4,AskPrice5,AskVolume5,LastPrice
